@@ -28,7 +28,7 @@ I enjoy working on projects related to:
 - Robotic Process Automation (UiPath)
 
 ## 💻 Current Projects
-- Building **full-stack applications** and exploring **AI integrations** for data-driven solutions.
+- 
 
 ## 📂 Public Repositories
 Here are some of my featured projects:
