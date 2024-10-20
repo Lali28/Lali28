@@ -33,7 +33,7 @@ I enjoy working on projects related to:
 ## 📂 Public Repositories
 Here are some of my featured projects:
 - [Project 1 - Simple Calculator](https://github.com/Lali28/Lali28_SimpleCalculator)
-- [Project 2 - In-Memory Web API](https://github.com/Lali28/PowerBI_NWU_Tech_Trends)
+- [Project 2 - In-Memory Web API](https://github.com/Lali28/InMemory_WebAPI)
 
   
 ## 📫 How to Reach Me
