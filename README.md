@@ -34,8 +34,8 @@ I enjoy working on projects related to:
 Here are some of my featured projects:
 - [Project 1 - Simple Calculator](https://github.com/Lali28/Lali28_SimpleCalculator)
 - [Project 2 - In-Memory Web API](https://github.com/Lali28/InMemory_WebAPI)
+- [Project 3 - NWUVaalNavigationSystem](https://github.com/Lali28/NWU_Vaal_Campus_NavigationSystem)
 
-  
 ## 📫 How to Reach Me
 - Email: **amitolali2@gmail.com**
 - LinkedIn: [Amito Lali](https://www.linkedin.com/in/amitolali)
