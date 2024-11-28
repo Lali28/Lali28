@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Amito Lali (@Lali28)
 
-I am an IT Final-Year Student at North-West University with a strong foundation in **software development**, **cloud technologies**, and **database management**. With experience in various projects, internships, and certifications, I am passionate about leveraging technology to solve complex problems and drive innovation.
+I am an IT graduate from the North-West University with a strong foundation in **software development**, **cloud technologies**, and **database management**. With experience in various projects, internships, and certifications, I am passionate about leveraging technology to solve complex problems and drive innovation.
 
 ## 💼 Professional Summary
 - Bachelor of Science in Information Technology (Final Year)
