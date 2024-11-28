@@ -3,10 +3,10 @@
 I am an IT graduate from the North-West University with a strong foundation in **software development**, **cloud technologies**, and **database management**. With experience in various projects, internships, and certifications, I am passionate about leveraging technology to solve complex problems and drive innovation.
 
 ## 💼 Professional Summary
-- Bachelor of Science in Information Technology (Final Year)
+- Bachelor of Science in Information Technology (Graduate)
 - Proficient in **Python**, **Java**, **C#**, and **C++**
 - Hands-on experience with **Microsoft Azure**  for cloud deployment 
-- Skilled in **web development** (HTML, CSS, Web API, MVC, Blazor) and **Robotic Process Automation (UiPath)**
+- Skilled in **web development** (HTML, CSS, JavaScript, Web API, MVC, Blazor) and **Robotic Process Automation (UiPath)**
 - Skilled in **data visualization** using **Power BI**
 - Strong understanding of **databases**: Oracle SQL, MySQL, SQL Server
 - Experience with **computer networking** (Cisco) and **operating systems** (Windows, Linux)
