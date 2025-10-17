@@ -40,7 +40,7 @@ Here are some of my key repositories that showcase my technical skills and proje
 
 - [🧮 Project 1 - Simple Calculator (C#)](https://github.com/Lali28/Lali28_SimpleCalculator)
 - [🌐 Project 2 - In-Memory Web API (ASP.NET)](https://github.com/Lali28/InMemory_WebAPI)
-- [🗺️ Project 3 - NWU Vaal Navigation System (Java)](https://github.com/Lali28/NWU_Vaal_Campus_NavigationSystem)
+- [🗺️ Project 3 - NWU Vaal Navigation System (C#)](https://github.com/Lali28/NWU_Vaal_Campus_NavigationSystem)
 - [🏗️ Project 4 - Business Website (Rendering Services)](https://github.com/Lali28/BusinessWebsite_Demolishing_Cleaning-Fettling)
 
 ## 📫 How to Reach Me
